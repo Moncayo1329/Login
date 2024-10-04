@@ -1,6 +1,5 @@
-
-import './App.css';
-import LoginForm from './components/assets/login/loginform';
+import './index.css';
+import LoginForm from './components/assets/login/loginform.js';
 
 function App() {
   return (
