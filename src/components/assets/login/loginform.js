@@ -18,7 +18,7 @@ return(
 <FaLock className='icon' />
 </div>
 
-<div className='remeber-forgot'>
+<div className='remember-forgot'>
 <label> <input type='checkbox'/> Remember me</label>
 <a href='#'>forgot password</a>
 </div>
